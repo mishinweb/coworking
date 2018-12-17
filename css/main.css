@@ -59,13 +59,14 @@ html, body {
     color: #ec1e79;
     text-decoration: none;
     letter-spacing: 1px;
+  }
 
   
 .properties__item {
         display: inline-block;
         width: 250px;
         margin-right: 20px;
-      }
+}
       .properties__title,
 .properties__desc {
   text-align: center;
